@@ -77,7 +77,14 @@ module tb_ripple_carry_adder_task;
     end
 endmodule
 ```
-### **4-bit Ripple Carry Adder Simulation Output **
+### 4-bit Ripple Carry Adder Simulation Output 
+
+-----
+-----
+-----
+-----
+------- Paste the output here----------
+
 
 
 
@@ -124,12 +131,12 @@ module tb_ripple_counter_func;
     end
 endmodule
 ```
-### **4-bit Ripple Counter Simulation output **
-
-
-
-
-
+### 4-bit Ripple Counter Simulation output 
+-----
+-----
+-----
+-----
+------- Paste the output here----------
 
 
 
